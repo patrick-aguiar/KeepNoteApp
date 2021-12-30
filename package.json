@@ -1,0 +1,35 @@
+{
+  "name": "using-pre-built-react-components",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.36",
+    "@fortawesome/free-solid-svg-icons": "5.15.4",
+    "@fortawesome/react-fontawesome": "0.1.16",
+    "@fortawesome/react-native-fontawesome": "0.2.7",
+    "@material-ui/core": "3.9.4",
+    "@material-ui/icons": "4.5.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-native-svg": "12.1.1",
+    "react-scripts": "3.2.0",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
